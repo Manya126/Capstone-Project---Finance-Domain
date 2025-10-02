@@ -51,17 +51,3 @@ Here are snapshots of the interactive dashboards created in **Power BI**:
 
 ---
 
-## 🚀 How to Use  
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/yourusername/finance-capstone.git
-   cd finance-capstone
-
-
-## 🚀 How to Use  
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/yourusername/finance-capstone.git
-   cd finance-capstone
