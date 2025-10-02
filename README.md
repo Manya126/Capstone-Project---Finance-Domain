@@ -29,13 +29,13 @@ The goal is to strengthen **analytical, visualization, and problem-solving skill
 Here are snapshots of the interactive dashboards created in **Power BI**:
 
 ### Dashboard 1 – [Your Title Here]  
-![Dashboard 1](dashboard/image1.png)
+![Dashboard 1](dashboards/image1.png)
 
 ### Dashboard 2 – [Your Title Here]  
-![Dashboard 2](dashboard/image2.png)
+![Dashboard 2](dashboards/image2.png)
 
 ### Dashboard 3 – [Your Title Here]  
-![Dashboard 3](dashboard/image3.png)
+![Dashboard 3](dashboards/image3.png)
 
 > 🔔 To view interactive dashboards, open the `.pbix` files in Power BI Desktop.  
 
